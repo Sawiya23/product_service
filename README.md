@@ -13,4 +13,4 @@ The Product Service is responsible for managing the list of available grocery pr
 - `curl -X POST -H "Content-Type: application/json" \ -d '{"name": "Orange", "price": 1.5, "quantity": 50}' \https://productservice.onrender.com/products` - Add a new product to the inventory.
 
 **Product Service URL**:  
-[Product Service on Render](https://product-service-izcg.onrender.com)
+[Product Service on Render](https://product-service-izcg.onrender.com/products)
